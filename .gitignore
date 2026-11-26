@@ -1,5 +1,6 @@
 # Build output
 *.exe
+!dist/*.exe
 *.dll
 *.pdb
 *.zip
