@@ -1,0 +1,17 @@
+# Build output
+*.exe
+*.dll
+*.pdb
+*.zip
+bin/
+obj/
+
+# Local settings and editor caches
+rules.xml
+rules.xml.*
+ui-language.txt
+*.user
+*.suo
+.vs/
+.vscode/
+Thumbs.db
